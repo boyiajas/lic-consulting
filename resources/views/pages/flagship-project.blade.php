@@ -31,7 +31,7 @@
             <div class="col-md-6">
                 <div class="bg-white shadow-sm rounded p-4 h-100">
                     <div class="mb-3">
-                        <img src="https://placehold.co/600x300?text=Kgotson+Roads" class="img-fluid rounded" alt="Kgotson Paved Roads">
+                        <img src="{{ asset('assets/images/projects/flagship/flagship1.png') }}" class="img-fluid rounded" alt="Kgotson Paved Roads">
                     </div>
                     <h5 class="fw-bold mb-1">Kgotson Paved Roads Phase 4, 4A, 4B & 4C</h5>
                     <p class="mb-1 text-muted"><i class="bi bi-building me-1 text-danger"></i> Nala Local Municipality</p>
@@ -45,7 +45,7 @@
             <div class="col-md-6">
                 <div class="bg-white shadow-sm rounded p-4 h-100">
                     <div class="mb-3">
-                        <img src="https://placehold.co/600x300?text=Sewer+Upgrade" class="img-fluid rounded" alt="Sewer Upgrade">
+                        <img src="{{ asset('assets/images/projects/flagship/flagship2.png') }}" class="img-fluid rounded" alt="Sewer Upgrade">
                     </div>
                     <h5 class="fw-bold mb-1">Kgotson Outfall Sewer Upgrade</h5>
                     <p class="mb-1 text-muted"><i class="bi bi-building me-1 text-danger"></i> Nala Local Municipality</p>
@@ -59,7 +59,7 @@
             <div class="col-md-6">
                 <div class="bg-white shadow-sm rounded p-4 h-100">
                     <div class="mb-3">
-                        <img src="https://placehold.co/600x300?text=Monyakeng+Centre" class="img-fluid rounded" alt="Multipurpose Centre">
+                        <img src="{{ asset('assets/images/projects/flagship/flagship3.png') }}" class="img-fluid rounded" alt="Multipurpose Centre">
                     </div>
                     <h5 class="fw-bold mb-1">Monyakeng Multipurpose Centre</h5>
                     <p class="mb-1 text-muted"><i class="bi bi-building me-1 text-danger"></i> Nala Local Municipality</p>
@@ -73,7 +73,7 @@
             <div class="col-md-6">
                 <div class="bg-white shadow-sm rounded p-4 h-100">
                     <div class="mb-3">
-                        <img src="https://placehold.co/600x300?text=Bulk+Water+Scheme" class="img-fluid rounded" alt="Bulk Water Scheme">
+                        <img src="{{ asset('assets/images/projects/flagship/flagship4.png') }}" class="img-fluid rounded" alt="Bulk Water Scheme">
                     </div>
                     <h5 class="fw-bold mb-1">Tokologo Regional Bulk Water Scheme (Phase 1 & 2)</h5>
                     <p class="mb-1 text-muted"><i class="bi bi-building me-1 text-danger"></i> Tokologo Local Municipality</p>

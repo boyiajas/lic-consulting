@@ -253,7 +253,7 @@
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link fw-bold" href="/">HOME</a></li>
                     <li class="nav-item"><a class="nav-link fw-bold" href="/about-us">ABOUT US</a></li>
-                    <li class="nav-item"><a class="nav-link fw-bold" href="#">SERVICES</a></li>
+                    <li class="nav-item"><a class="nav-link fw-bold" href="/#services">SERVICES</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link fw-bold dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             PROJECTS

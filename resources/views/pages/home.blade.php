@@ -81,7 +81,7 @@
     </div>
 </section> -->
 
-<section class="discover-services py-5 bg-light">
+<section class="discover-services py-5 bg-light" id="services">
     <div class="container">
         <div class="text-center mb-5">
             <h3 class="fw-bold">OUR SERVICES</h3>
@@ -194,7 +194,7 @@ development.</p>
                 <div class="swiper-slide text-center px-3">
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/projects/service3-1-740x440.jpg') }}" class="img-fluid mb-3 shadow-sm" alt="Outfall Sewer Upgrade">
+                            <img src="{{ asset('assets/images/projects/service3-1-740x441.png') }}" class="img-fluid mb-3 shadow-sm" alt="Outfall Sewer Upgrade">
                         </div>
                         <div class="col-md-6">
                             <h4 class="fw-semibold">Kgotso Outfall Sewer Upgrade</h4>
@@ -208,7 +208,7 @@ development.</p>
                 <div class="swiper-slide text-center px-3">
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/projects/service3-1-740x440.jpg') }}" class="img-fluid mb-3 shadow-sm" alt="Multipurpose Centre">
+                            <img src="{{ asset('assets/images/projects/service3-1-740x442.png') }}" class="img-fluid mb-3 shadow-sm" alt="Multipurpose Centre">
                         </div>
                         <div class="col-md-6">
                             <h4 class="fw-semibold">Monyakeng Multipurpose Centre</h4>
@@ -222,7 +222,7 @@ development.</p>
                 <div class="swiper-slide text-center px-3">
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/projects/service3-1-740x440.jpg') }}" class="img-fluid mb-3 shadow-sm" alt="Bulk Water Scheme">
+                            <img src="{{ asset('assets/images/projects/service3-1-740x443.png') }}" class="img-fluid mb-3 shadow-sm" alt="Bulk Water Scheme">
                         </div>
                         <div class="col-md-6">
                             <h4 class="fw-semibold">Tokologo Regional Bulk Water Scheme</h4>
