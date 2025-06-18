@@ -33,10 +33,10 @@
                 <p class="mb-2"><i class="bi bi-geo-alt-fill me-2 text-danger"></i> 10 Van Blerk Avenue, Groenvlei, Bloemfontein, 9321</p>
                 <p class="mb-2"><i class="bi bi-telephone-fill me-2 text-danger"></i> +27 (0)81 573 9251</p>
                 <p class="mb-2"><i class="bi bi-envelope-fill me-2 text-danger"></i> 
-                    <a href="mailto:info@licconsulting.co.za" class="text-decoration-none text-dark">info@licconsulting.co.za</a>
+                    <a href="mailto:info@ewetse.co.za" class="text-decoration-none text-dark">info@ewetse.co.za</a>
                 </p>
                 <p class="mb-4"><i class="bi bi-globe2 me-2 text-danger"></i> 
-                    <a href="http://www.licconsulting.co.za" target="_blank" class="text-decoration-none text-dark">www.licconsulting.co.za</a>
+                    <a href="http://www.ewetse.co.za" target="_blank" class="text-decoration-none text-dark">www.ewetse.co.za</a>
                 </p>
 
                 <div class="d-flex justify-content-center gap-3 fs-5 mt-3">

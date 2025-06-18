@@ -23,11 +23,11 @@
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-md-6">
-                <img src="https://placehold.co/600x400" alt="Company History" class="img-fluid rounded shadow-sm">
+                <img src="{{ asset('assets/images/about/about-01.png') }}" alt="Company History" class="img-fluid rounded shadow-sm">
             </div>
             <div class="col-md-6">
                 <h3 class="fw-bold">Company History</h3>
-                <p>LIC Consulting is a black-owned consulting engineering and construction firm founded in 2005 by historically disadvantaged professionals in South Africa. It was established to address the lack of representation in the built environment and is driven by a client-centric and community-conscious approach to infrastructure development.</p>
+                <p>Ewetse Consulting is a black-owned consulting engineering and construction firm founded in 2005 by historically disadvantaged professionals in South Africa. It was established to address the lack of representation in the built environment and is driven by a client-centric and community-conscious approach to infrastructure development.</p>
             </div>
         </div>
     </div>
@@ -84,11 +84,11 @@
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-md-6 order-md-2">
-                <img src="https://placehold.co/600x400" alt="Ownership" class="img-fluid rounded shadow-sm">
+                <img src="{{ asset('assets/images/about/about-02.png') }}" alt="Ownership" class="img-fluid rounded shadow-sm">
             </div>
             <div class="col-md-6">
                 <h3 class="fw-bold">Ownership & Structure</h3>
-                <p>LIC Consulting is a 100% black-owned, multidisciplinary firm operating across the Free State, Gauteng, and Eastern Cape. All company directors are HDIs with deep expertise in the built environment.</p>
+                <p>Ewetse Consulting is a 100% black-owned, multidisciplinary firm operating across the Free State, Gauteng, and Eastern Cape. All company directors are HDIs with deep expertise in the built environment.</p>
                 <p>The company complies with the Employment Equity Act and is committed to developing HDIs across the industry.</p>
             </div>
         </div>
@@ -100,8 +100,8 @@
     <div class="container">
         <h3 class="fw-bold text-center mb-4">BEE Commitment</h3>
         <div class="text-center mx-auto" style="max-width: 800px;">
-            <p>LIC Consulting is proud to be a Level 1 Black Economic Empowerment (BEE) contributor. The company is 100% HDI-owned and committed to driving transformation across all levels of operation in line with the DTI's Codes of Good Practice.</p>
-            <img src="https://placehold.co/150x150" alt="BEE Level" class="img-fluid mt-3 rounded-circle shadow-sm">
+            <p>Ewetse Consulting is proud to be a Level 1 Black Economic Empowerment (BEE) contributor. The company is 100% HDI-owned and committed to driving transformation across all levels of operation in line with the DTI's Codes of Good Practice.</p>
+            <img src="{{ asset('assets/images/about/about-03.png') }}" alt="BEE Level" class="img-fluid mt-3 rounded-circle shadow-sm">
         </div>
     </div>
 </section>

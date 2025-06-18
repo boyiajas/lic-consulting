@@ -132,7 +132,7 @@ $categories = [
 <section class="py-5 bg-danger text-white text-center">
     <div class="container">
         <h4 class="fw-bold mb-2">Looking for reliable infrastructure expertise?</h4>
-        <p class="mb-4">LIC Consulting has the experience and capacity to deliver quality solutions.</p>
+        <p class="mb-4">Ewetse Consulting has the experience and capacity to deliver quality solutions.</p>
         <a href="{{ url('/contact-us') }}" class="btn btn-outline-light px-4">Contact Us</a>
     </div>
 </section>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>LIC Consulting</title>
+    <title>Ewetse Consulting</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {{-- Bootstrap 5 CDN --}}
@@ -187,7 +187,7 @@
     }
 
     .navbar-logo img{
-        height: 45px;
+        height: 65px;
     }
     
 
@@ -220,7 +220,7 @@
                 {{-- Left: Contact Info --}}
                 <div class="d-flex gap-4 align-items-center">
                     <div>
-                        <i class="bi bi-envelope-fill text-warning me-1"></i> info@licconsulting.co.za
+                        <i class="bi bi-envelope-fill text-warning me-1"></i> info@ewetse.co.za
                     </div>
                     <div>
                         <i class="bi bi-geo-alt-fill text-warning me-1"></i> 10 Van Blerk Avenue, Groenvlei Bloemfontein, 9321
@@ -245,7 +245,7 @@
         {{-- Bootstrap Navbar --}}
         <nav class="navbar navbar-expand-lg navbar-light bg-light px-4">
             <div class="container">
-            <a class="navbar-logo fw-bold text-primary" href="/"><img src="{{ asset('assets/images/logos/logo-dark.png') }}" class="img-fluid my-3" alt="Finance Consultancy"></a>
+            <a class="navbar-logo fw-bold text-primary" href="/"><img src="{{ asset('assets/images/logos/logo-dark.png') }}" class="img-fluid" alt="Finance Consultancy"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -297,7 +297,7 @@
                         9321
                     </p>
                     <p>
-                        <i class="bi bi-envelope-fill text-warning me-1"></i> info@licconsulting.co.za
+                        <i class="bi bi-envelope-fill text-warning me-1"></i> info@ewetse.co.za
                     </p>
                     <p>
                     <a href="#" class="text-white text-decoration-none"><i class="bi bi-telephone-fill text-warning me-1 "></i>+27 (0)81 573 9251</a>
@@ -355,7 +355,7 @@
          <div class="text-center mt-4 border-top border-secondary py-3 small ">
             <div class="container d-flex justify-content-between align-items-center">
                 <div>Copyright © Consultex {{ date('Y') }}. All rights reserved.</div>
-                <div>Created by: <span class="text-danger">ThemeChampion</span></div>
+                <div>Created by: <span class="text-danger">Izwetech</span></div>
             </div>
         </div>
     </footer>
