@@ -321,47 +321,47 @@ development.</p>
 
                 {{-- Partner 1 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/tradequip.png') }}" alt="Tradequip" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/agriseta.png') }}" alt="agriseta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 2 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/atlantis.png') }}" alt="Atlantis" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/services-seta.jpeg') }}" alt="services-seta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 3 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/virtus.png') }}" alt="Virtus" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/etdp-seta.png') }}" alt="etdp-seta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 4 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/bluebird.png') }}" alt="BlueBird" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/lgseta.png') }}" alt="lgseta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 5 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/pursho.png') }}" alt="Pursho" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/ceta.png') }}" alt="ceta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 6 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/virtus2.png') }}" alt="Virtus 2" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/agriseta.png') }}" alt="agriseta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 4 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/bluebird.png') }}" alt="BlueBird" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/services-seta.png') }}" alt="services-seta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 5 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/pursho.png') }}" alt="Pursho" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/ceta.png') }}" alt="ceta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 6 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/virtus2.png') }}" alt="Virtus 2" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/lgseta.png') }}" alt="lgseta" class="img-fluid grayscale-hover px-2">
                 </div>
 
             </div>
