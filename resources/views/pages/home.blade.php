@@ -1,6 +1,11 @@
 @extends('layouts.default')
 
 @section('content')
+<style>
+    .grayscale-hover{
+        height: 90px !important;
+    }
+</style>
 <section class="swiper hero-slider">
     <div class="swiper-wrapper">
         {{-- Slide 1 --}}
@@ -351,7 +356,7 @@ development.</p>
 
                 {{-- Partner 4 --}}
                 <div class="swiper-slide text-center">
-                    <img src="{{ asset('assets/images/partners/services-seta.png') }}" alt="services-seta" class="img-fluid grayscale-hover px-2">
+                    <img src="{{ asset('assets/images/partners/services-seta.jpeg') }}" alt="services-seta" class="img-fluid grayscale-hover px-2">
                 </div>
 
                 {{-- Partner 5 --}}
